@@ -10,7 +10,7 @@ The purpose of this project was to take a large amount of data, load it into an 
  - Non-Vine Reviews: 37831 (99.8%)  
 ![Total Non-Vine Reviews](images/total_nvine_reviews.png)
 ### Total 5-Star Reviews
- - Overall:  14748 (38.9% of total)
+ - Overall: 14748 (38.9% of total)  
 ![Overall 5-Star Reviews](images/overall_five_reviews.png)
  - Vine 5-Star Reviews: 44  
 ![5-Star Vine Reviews](images/vine_five_reviews.png)
